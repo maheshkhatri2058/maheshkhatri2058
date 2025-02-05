@@ -25,19 +25,11 @@
 ### 🚀 **Full-Stack Development**  
 ![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white)  
 
----
-
-## 📊 GitHub Stats  
-![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshkhatri2058&show_icons=true&theme=radical)  
-
-🔥 **Contributions Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshkhatri2058&theme=dark)  
-
 🚀 **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkhatri2058&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 🔗 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-khatri-82295622a/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://maheshkhatri.vercel.app)  
