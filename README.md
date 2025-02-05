@@ -28,13 +28,13 @@
 ---
 
 ## 📊 GitHub Stats  
-![Jonny Sin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshkhatri2058&show_icons=true&theme=radical)  
 
 🔥 **Contributions Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshkhatri2058&theme=dark)  
 
 🚀 **Top Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkhatri2058&layout=compact&theme=tokyonight)  
 
 ---
 
