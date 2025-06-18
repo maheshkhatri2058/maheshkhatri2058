@@ -25,10 +25,6 @@
 ### 🚀 **Full-Stack Development**  
 ![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white)  
 
-🚀 **Top Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkhatri2058&layout=compact&theme=tokyonight)  
-
----
 
 ### 🔗 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-khatri-82295622a/)  
